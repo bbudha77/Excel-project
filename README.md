@@ -1,18 +1,20 @@
-# Excel-project
-Budgeting Project Overview
-This project is designed to help users understand and manage their finances by breaking down income, expenses, and savings. The data is presented in tables, and visualizations such as donut charts, inverted pyramids, and bar charts can be used to make the information more accessible and easier to interpret.
+# Budgeting Project Overview
 
-Project Structure
-1. Income and Expenses Summary
+This project is a personal budgeting template that I created to practice Excel skills like formula and data visualisation. It includes income, expense and savings tracking, along with charts to analyze financial patterns. Below is a breakdown of the project and how I used Excel features to build it.
+
+# Project Structure
+
+# 1. Income and Expenses Summary
 The project starts with a detailed breakdown of income and expenses. The tables provide a clear view of where money is coming from and where it is being spent.
 
-2. Savings Summary
+# 2. Savings Summary
 A significant portion of the income is saved, indicating a focus on financial security. The savings are categorized, and percentages show the proportion of income saved versus spent.
 
-3. Income and Expense Breakdowns
+# 3. Income and Expense Breakdowns
 These tables provide further details on different income brackets and expense categories, helping to understand the distribution of finances more granularly.
 
-Visualizations
+# Visualizations
+
 Donut Chart
 A donut chart can be used to visualize the proportion of income saved versus expenses. For example:
 
