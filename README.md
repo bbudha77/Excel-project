@@ -15,7 +15,7 @@ These tables provide further details on different income brackets and expense ca
 
 # Visualizations
 
-Donut Chart
+# Donut Chart
 A donut chart can be used to visualize the proportion of income saved versus expenses. For example:
 
 Savings (52%): Represented by one segment of the donut.
@@ -24,57 +24,18 @@ Expenses (48%): Represented by the other segment.
 
 This visualization helps quickly grasp the balance between savings and expenditures.
 
-Inverted Pyramid
+# Inverted Pyramid
 An inverted pyramid can illustrate the hierarchy of expenses. For example:
 
 Base (Largest Expense): Rent ($30,000)
 
-Middle Layers: Insurance (
-15
-,
-000
-)
-,
-G
-l
-o
-s
-s
-a
-l
-e
-s
-(
-15,000),Glossales(10,000), Transportation ($6,000)
+Middle Layers: Insurance (15000), Groceries(10,000), Transportation ($6,000)
 
-Top (Smallest Expenses): Eating out (
-2
-,
-000
-)
-,
-I
-n
-t
-e
-r
-n
-e
-t
-a
-n
-d
-p
-h
-o
-n
-e
-(
-2,000),Internetandphone(1,000)
+Top (Smallest Expenses): Eating out(2,000),  Internet and phones(1000)
 
 This visualization shows how expenses are prioritized and where the bulk of the money is going.
 
-Bar Chart
+# Bar Chart
 A bar chart can be used to compare different categories of income and expenses side by side. For example:
 
 Income Categories: Salary, Bonus, Other Income, etc.
@@ -82,3 +43,12 @@ Income Categories: Salary, Bonus, Other Income, etc.
 Expense Categories: Rent, Insurance, Transportation, etc.
 
 This chart provides a clear comparison of different financial categories, making it easy to see which areas are the most significant.
+
+# Why This Project?
+
+## Excel Skills Practiced
+- Formulas( SUM, percentage calculations).
+- Chart customization( donut bar, pyramid)
+
+  ## Real World Relevance
+  Budgeting helps understand personal finance, and visualizing data makes patterns easier to spot.
