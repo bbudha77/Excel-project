@@ -49,8 +49,8 @@ This chart provides a clear comparison of different financial categories, making
 ## Excel Skills Practiced
 - Formulas( SUM, percentage calculations).
 - Chart customization( donut bar, pyramid)
-
-  ## Real World Relevance
+  
+ ## Real World Relevance
   Budgeting helps understand personal finance, and visualizing data makes patterns easier to spot.
 
   # Conclusions
