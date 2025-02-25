@@ -42,6 +42,8 @@ This visualization shows how expenses are prioritized and where the bulk of the 
 ## Bar Chart
 A bar chart can be used to compare different categories of income and expenses side by side. For example:
 
+![image alt](https://github.com/bbudha77/Excel-project/blob/fae870a2fc8f499807d81eb61fbf0045b9daf31c/Screenshot%202025-02-25%20131924.png)
+
 Screenshot 2025-02-25 131924.png
 
 Income Categories: Salary, Bonus, Other Income, etc.
