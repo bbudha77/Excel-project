@@ -38,6 +38,8 @@ This visualization shows how expenses are prioritized and where the bulk of the 
 ## Bar Chart
 A bar chart can be used to compare different categories of income and expenses side by side. For example:
 
+Screenshot 2025-02-25 131924.png
+
 Income Categories: Salary, Bonus, Other Income, etc.
 
 Expense Categories: Rent, Insurance, Transportation, etc.
