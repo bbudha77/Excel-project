@@ -18,7 +18,7 @@ These tables provide further details on different income brackets and expense ca
 ## Donut Chart
 A donut chart can be used to visualize the proportion of income saved versus expenses. For example:
 
-https://github.com/bbudha77/Excel-project/blob/09312bcaa75dbd49f8adf266ae6b9f554cde8661/Screenshot%202025-02-25%20131943.png
+![image alt](https://github.com/bbudha77/Excel-project/blob/09312bcaa75dbd49f8adf266ae6b9f554cde8661/Screenshot%202025-02-25%20131943.png)
 
 Savings (52%): Represented by one segment of the donut.
 
