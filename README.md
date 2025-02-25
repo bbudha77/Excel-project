@@ -29,7 +29,7 @@ This visualization helps quickly grasp the balance between savings and expenditu
 ## Inverted Pyramid
 An inverted pyramid can illustrate the hierarchy of expenses. For example:
 
-![image alt] (https://github.com/bbudha77/Excel-project/blob/805199ca8f2ac1bde5e333013b3864caac460721/Screenshot%202025-02-25%20131956.png)
+![image alt](https://github.com/bbudha77/Excel-project/blob/805199ca8f2ac1bde5e333013b3864caac460721/Screenshot%202025-02-25%20131956.png)
 
 Base (Largest Expense): Rent ($30,000)
 
